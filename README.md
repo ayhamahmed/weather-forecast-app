@@ -2,6 +2,8 @@
 
 A simple, practical weather app built with vanilla HTML, CSS, and JavaScript. Enter a city name to see current weather information including temperature, conditions, humidity, and wind speed.
 
+**[Live Demo](https://ayhamahmed.github.io/weather-forecast-app/)**
+
 ## Features
 
 - **City search** – Enter any city name and get instant results
