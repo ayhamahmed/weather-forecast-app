@@ -19,19 +19,7 @@ A simple, practical weather app built with vanilla HTML, CSS, and JavaScript. En
 ## How to Run
 
 1. Clone or download this project
-2. Open `index.html` in a web browser
-
-You can also use a local server (recommended to avoid CORS issues in some setups):
-
-```bash
-# Using Python 3
-python -m http.server 8000
-
-# Using Node.js (npx)
-npx serve
-```
-
-Then open http://localhost:8000 in your browser.
+2. Double-click `index.html` or drag it into your browser to open it
 
 ## API Setup
 
