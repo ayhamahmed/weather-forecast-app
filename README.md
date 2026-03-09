@@ -27,7 +27,7 @@ This project uses the [WeatherAPI.com Current Weather API](https://www.weatherap
 
 1. Sign up at [WeatherAPI.com](https://www.weatherapi.com/signup.aspx)
 2. Get your API key from your [account dashboard](https://www.weatherapi.com/login.aspx)
-3. Replace the key in `script.js` line 1
+3. Replace the key in `js/script.js` line 1
 
 > **Note:** For production apps, avoid exposing API keys in client-side code. Use a backend proxy to make API requests instead.
 
@@ -35,10 +35,12 @@ This project uses the [WeatherAPI.com Current Weather API](https://www.weatherap
 
 ```
 weather-forcast-app/
-├── index.html    # Main HTML structure
-├── styles.css    # Styling
-├── script.js     # API logic and DOM updates
-└── README.md     # Documentation
+├── index.html       # Main HTML structure
+├── css/
+│   └── styles.css   # Styling
+├── js/
+│   └── script.js    # API logic and DOM updates
+└── README.md        # Documentation
 ```
 
 ## Future Enhancements (Advanced Version)
